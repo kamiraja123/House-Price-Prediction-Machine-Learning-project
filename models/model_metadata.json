@@ -1,0 +1,12 @@
+{
+    "best_model_name": "Gradient Boosting Regressor",
+    "best_r2_score": 0.9835983771356638,
+    "best_rmse": 56453.41535521587,
+    "best_mae": 39019.47444731717,
+    "models_evaluated": [
+        "Gradient Boosting Regressor",
+        "Random Forest Regressor",
+        "Decision Tree Regressor",
+        "Linear Regression"
+    ]
+}
